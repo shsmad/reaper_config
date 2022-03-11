@@ -1,0 +1,18 @@
+[Main toolbar]
+icon_0=toolbar_mainAddTrack.png
+icon_3=toolbar_mainFXBypass.png
+icon_5=toolbar_mainMasterShow.png
+icon_8=toolbar_mainTrackman.png
+icon_10=toolbar_mainMarqReg.png
+item_0=40001 Track: Insert new track
+item_1=-1
+item_2=-1
+item_3=40344 Track: Toggle FX bypass on all tracks
+item_4=-1
+item_5=40075 View: Toggle master track visible
+item_6=-1
+item_7=-1
+item_8=40906 View: Show track manager window
+item_9=-1
+item_10=40326 View: Show region/marker manager window
+
